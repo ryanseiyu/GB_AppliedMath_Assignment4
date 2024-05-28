@@ -6,3 +6,5 @@ dependencies:
   - pytest
   - numpy
   - pytorch # 'torch' package is named 'pytorch' in Conda
+  - tensorflow
+  - keras
