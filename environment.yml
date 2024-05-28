@@ -2,9 +2,10 @@ name: base
 channels:
   - defaults
 dependencies:
+  - python=3.9
   - flake8
   - pytest
   - numpy
-  - pytorch # 'torch' package is named 'pytorch' in Conda
-  - tensorflow
+  - pytorch
+  - tensorflow=2.6.0
   - keras
