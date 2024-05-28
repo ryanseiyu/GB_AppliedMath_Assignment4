@@ -5,7 +5,7 @@ dependencies:
   - python=3.9
   - flake8
   - pytest
-  - numpy
+  - numpy=1.19.5
   - pytorch
   - tensorflow=2.6.0
   - keras
